@@ -1,0 +1,198 @@
+.aa{
+    background-image:url(images/Hero.png);
+    background-size: 2500px 3500px ;
+    box-sizing:3000px 4000px;
+    height:500px;
+}
+.ab {
+    padding: 30px 50px 30px 50px;
+    
+}
+.ac > a {
+            text-decoration: none;
+            color: white;
+            text-indent: 2.5cm;
+            float:right;
+}
+.ad > a:link {
+    width:25px;
+    background-color: whitesmoke;
+    color: rgb(21, 21, 219);
+    text-align:center;
+}
+.add{float:right;
+
+}
+.ad {
+    clear:left;
+}
+.af h4{
+    color:maroon;
+}
+.af img {
+    float:left;
+
+}
+.af h4 h3 p a{
+    float: right;
+}
+.ae {
+    padding: 30px 50px 30px 50px;
+}
+/*.ahh {
+    background-color: rgb(30, 30, 201)
+}*/
+.ag{
+    
+}
+.ah {
+    background-color: blue;
+    float:left;
+    /*box-sizing: 50% 30%;*/
+    border-width: 1em 2em 1em 1.5em;
+    padding:10px 35px 10px 35px;
+    text-align: center;
+}
+.ai {
+    background-color: blue;
+   /* box-sizing: 100% 30%;*/
+    object-position: right;
+    border-width: 1em 2em 1em 1.5em;
+    padding:10px 35px 10px 35px;
+    text-align: center;
+}
+
+.mee{
+    text-align: right;
+}
+
+.aj { 
+    padding:10px 150px 10px 150px;
+    text-align: right;
+}
+.ak {
+    box-sizing: 100% 40%;
+    background-color: rgb(38, 2, 241);
+    border-radius: 2em 2em 0em 0em;
+    padding: 20px 40px 20px 40px;
+    height:60px;
+}
+.ak a{
+    text-decoration: none;
+    color:whitesmoke;
+    text-indent: 1.0cm;
+    text-align: left; 
+}
+.ak img{
+    text-align:center;
+}
+.ade{color:whitesmoke;
+background-color: rgba(21, 21, 250, 0.466);
+border-width: 2em 1em 1em 1em;
+
+}
+.za{
+    padding:0px 40px;
+}
+.za a{
+    text-decoration: none;
+                color: rgb(38, 2, 241);
+                text-indent: 1.5cm;
+                float:right;
+    }
+.zb{
+    font-size:25px;
+    color:rgb(38, 2, 241);
+}
+.zc{
+    font-size:25px;
+    color:maroon;
+}
+.zz{
+background-color: gray;
+height:5px;
+}
+.zd{
+    margin:0px 0px 280px 0px;
+    padding: 0px 40px;
+}
+.zd h1{
+    text-align: center;
+    color: rgb(38, 2, 241)
+}
+.ze{
+    border-style:none;
+}
+.zhead,.zhed{
+    float: left;
+    box-sizing: 300px 1050px;
+   /* height: 1050px;*/
+    width:400px;
+}
+.ze,.zf,.zg,.zh,.zi,.zj{
+    border-style:none;
+    border-bottom-style:groove;
+    width:350px;
+    margin:20px 0px;
+}
+.zk{
+    text-align: left;
+
+}
+.zl{
+    color:green;
+    text-align:center;
+    margin:2px 0px 10px 1px;
+}
+.bd{
+    border-radius:1.1em;
+    float: right;
+    color: lightskyblue;
+    border-color: black;
+}
+.not{
+    color: gray;
+    
+    padding: 5px 0px 0px 30px;
+    
+}
+.nan{
+    text-align:right;
+    text-indent:1.5cm;
+}
+#bdy{
+    background-color:whitesmoke;
+    padding:0px 15px;
+}
+.sb h1{
+    color:white;
+}
+.sb {
+    margin:5px 0px;
+    height:50px;
+}
+.sa, .sc, .sd{
+    background-color: white;
+}
+.sa{
+    height:65px;
+    padding: 0px 0px 0px 30px;
+}
+.sc{padding: 5px 0px 0px 30px;
+    height:70px;
+    margin:2px 0px 10px 0px;
+}
+.sd{
+    height:110px;
+    padding:5px 0px 0px 30px;
+    margin:2px 0px 10px 0px;
+}
+.se{height:30px;
+    width:180px;
+    border-style: groove;
+    border-color: lightblue;
+    border-radius:0.6em;
+    margin:20px 0px 0px 0px;
+    background-color:white;
+}
+
